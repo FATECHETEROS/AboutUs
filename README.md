@@ -10,11 +10,6 @@ Somos um grupo diversificado, cada membro com uma visão única e motivado a seg
 ### Conheça nossos Membros
 Visite o perfil de cada membro para saber mais sobre suas áreas de interesse, habilidades e contribuições. Estamos sempre prontos para aprender e compartilhar!
 
-### Contribuidores
-Agradecemos a todos os membros que colaboram com ideias, projetos e conhecimento! Confira abaixo nossos principais contribuidores:
-
-### Contribuidores
-
 <a href="https://github.com/JonahKun">
   <img src="https://github.com/JonahKun.png" width="80px" height="80px" style="border-radius: 50%; object-fit: cover; display: inline-block;" alt="JonahKun"/>
 </a>
